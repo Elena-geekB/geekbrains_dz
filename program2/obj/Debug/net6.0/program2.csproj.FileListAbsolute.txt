@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\ДЗ_Двумерные Массивы\Program1\program2\bin\Debug\net6.0\program2.exe
+C:\Users\Елена\Desktop\ДЗ_Двумерные Массивы\Program1\program2\bin\Debug\net6.0\program2.deps.json
+C:\Users\Елена\Desktop\ДЗ_Двумерные Массивы\Program1\program2\bin\Debug\net6.0\program2.runtimeconfig.json
+C:\Users\Елена\Desktop\ДЗ_Двумерные Массивы\Program1\program2\bin\Debug\net6.0\program2.dll
+C:\Users\Елена\Desktop\ДЗ_Двумерные Массивы\Program1\program2\bin\Debug\net6.0\program2.pdb
+C:\Users\Елена\Desktop\ДЗ_Двумерные Массивы\Program1\program2\obj\Debug\net6.0\program2.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\ДЗ_Двумерные Массивы\Program1\program2\obj\Debug\net6.0\program2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\ДЗ_Двумерные Массивы\Program1\program2\obj\Debug\net6.0\program2.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\ДЗ_Двумерные Массивы\Program1\program2\obj\Debug\net6.0\program2.AssemblyInfo.cs
+C:\Users\Елена\Desktop\ДЗ_Двумерные Массивы\Program1\program2\obj\Debug\net6.0\program2.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\ДЗ_Двумерные Массивы\Program1\program2\obj\Debug\net6.0\program2.dll
+C:\Users\Елена\Desktop\ДЗ_Двумерные Массивы\Program1\program2\obj\Debug\net6.0\refint\program2.dll
+C:\Users\Елена\Desktop\ДЗ_Двумерные Массивы\Program1\program2\obj\Debug\net6.0\program2.pdb
+C:\Users\Елена\Desktop\ДЗ_Двумерные Массивы\Program1\program2\obj\Debug\net6.0\program2.genruntimeconfig.cache
+C:\Users\Елена\Desktop\ДЗ_Двумерные Массивы\Program1\program2\obj\Debug\net6.0\ref\program2.dll
