@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Елена\\Desktop\\ДЗ_Двумерные Массивы\\Program\\program2\\program2.csproj",
+      "projectUniqueName": "C:\\Users\\Елена\\WORK\\geekbrains_dz\\program2\\program2.csproj",
       "projectName": "program2",
-      "projectPath": "C:\\Users\\Елена\\Desktop\\ДЗ_Двумерные Массивы\\Program\\program2\\program2.csproj",
+      "projectPath": "C:\\Users\\Елена\\WORK\\geekbrains_dz\\program2\\program2.csproj",
       "packagesPath": "C:\\Users\\Елена\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Елена\\Desktop\\ДЗ_Двумерные Массивы\\Program\\program2\\obj\\",
+      "outputPath": "C:\\Users\\Елена\\WORK\\geekbrains_dz\\program2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Елена\\AppData\\Roaming\\NuGet\\NuGet.Config"
